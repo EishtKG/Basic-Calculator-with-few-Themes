@@ -1,4 +1,4 @@
-# 🧮 Calculator with Themes
+# 🧮 Basic Calculator with Themes
 
 > **This project was built as a learning exercise to understand DOM manipulation and the JavaScript frontend workflow.** Every feature was coded step by step — from scratch — without using any frameworks or libraries beyond Tailwind CSS for styling.
 
