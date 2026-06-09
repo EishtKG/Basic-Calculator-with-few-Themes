@@ -36,7 +36,7 @@
 - `Escape` → clear all
 
 **Themes**
-- 6 handpicked gradient themes
+- 6 gradient themes that i liked while searching over internet
 - Animated dot indicators below the calculator
 - Theme name appears with a blur-in animation on switch
 - Remembers active theme dot with a colored indicator
@@ -45,15 +45,14 @@
 
 ## 🎨 Themes
 
-| Name | Type | Vibe |
-|---|---|---|
-| **Deep Ocean** | Radial gradient | Cool blue depths |
-| **Blood Moon** | Radial gradient | Dark crimson drama |
-| **Nebula** | Conic gradient | Deep space purple |
-| **Midnight Aurora** | Radial gradient | Dark with green glow |
-| **Volcanic** | Radial gradient | Fiery orange heat |
-| **Venetian Gold** | Radial gradient | Warm royal luxury |
-
+| Name |
+|---|
+| **Deep Ocean** | 
+| **Blood Moon** | 
+| **Nebula** | 
+| **Midnight Aurora** | 
+| **Volcanic** | 
+| **Venetian Gold** | 
 ---
 
 ## 🛠️ Built With
@@ -110,6 +109,14 @@ open index.html
 ├── style.css       # glass effect, gradients, dot styles, animations
 ├── script.js       # all calculator logic + theme switching
 └── README.md
+└── screenshots
+    └── blood-moon.png
+    └── deep-ocean.png
+    └── midnight-aurora.png
+    └── nebula.png
+    └── venetian-gold.png
+    └── volcanic.png
+
 ```
 
 ---
