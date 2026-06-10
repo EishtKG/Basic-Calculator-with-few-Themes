@@ -69,23 +69,21 @@ button {
 }
 
 /* venetian gold — gold */
-h1 {
-    color: white;
-    font-size: 1.8rem;
-    font-weight: 700;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-    margin-bottom: 20px;
-}
-
 #themeLabel {
-    color: rgba(255, 255, 255, 0.5);  /* dimmer than title */
-    font-size: 11px;                   /* smaller than title */
-    font-weight: 300;                  /* lighter than title */
-    letter-spacing: 4px;
+    color: white;
+    font-size: 14px;
+    letter-spacing: 2px;
     text-transform: uppercase;
     margin-bottom: 10px;
     opacity: 0;
     filter: blur(10px);
     transition: opacity 0.5s, filter 0.5s;
+}
+h1 {
+    background: linear-gradient(135deg, #f5e642, #d4a843);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 3px;
 }
